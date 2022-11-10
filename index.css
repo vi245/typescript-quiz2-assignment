@@ -1,0 +1,24 @@
+#container{
+   display:flex;
+   flex-direction: column;
+   width:auto;
+   height:45rem;
+   justify-content: center;
+   align-items: center;
+   background-color:skyblue;
+}
+#image-1{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+}
+#image-2{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+}
+#image-3{
+    width: 200px;
+    height:200px;
+    border-radius: 50%;
+}
